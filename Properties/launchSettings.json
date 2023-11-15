@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "az_webhook_test": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7102",
+      "launchBrowser": false
+    }
+  }
+}
